@@ -12,10 +12,6 @@ A browser-based Linux course built on Proxmox. The goal was to create a professi
 
 [Documentation](https://brawny-dracorex-d4b.notion.site/Homelab-Web-Infrastructure-English-371c8d959421801baaa0f9fbafdbf6f2)
 
-## Currently in Notion
-
-> Soon available as a standalone MkDocs website.
-
 ## 📦 Tech Stack
 
 - Proxmox VE
